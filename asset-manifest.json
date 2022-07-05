@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/BMI-NEW/static/css/main.93545f59.css",
+    "main.js": "/BMI-NEW/static/js/main.f00336b3.js",
+    "static/media/overweight.png": "/BMI-NEW/static/media/overweight.d289cb46e9633c985346.png",
+    "static/media/healthy.png": "/BMI-NEW/static/media/healthy.9343f93bce37d792e548.png",
+    "static/media/underweight.png": "/BMI-NEW/static/media/underweight.59ea1528911569173fa9.png",
+    "index.html": "/BMI-NEW/index.html",
+    "main.93545f59.css.map": "/BMI-NEW/static/css/main.93545f59.css.map",
+    "main.f00336b3.js.map": "/BMI-NEW/static/js/main.f00336b3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.93545f59.css",
+    "static/js/main.f00336b3.js"
+  ]
+}
